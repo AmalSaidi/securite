@@ -20,10 +20,10 @@ Il s'agit d'un formulaire d'inscription et de connexion sécurisé en PHP avec d
 
 # Aperçu du code
 
--Le code utilise PHP et MySQL pour gérer l'inscription et la connexion des utilisateurs, avec des mesures de sécurité telles que les mots de passe hachés et le "salt" de mot de passe mis en œuvre pour protéger contre les attaques liées au mot de passe. <br>
--Le fichier registerScript.php gère le processus d'inscription d'utilisateur, y compris la validation des entrées et la vérification des noms d'utilisateur existants.<br>
--Le fichier loginScript.php gère le processus de connexion d'utilisateur, y compris les comparaisons de hachage pour une vérification sécurisée du mot de passe.<br>
--Le fichier home.php est la page principale qui ne peut être accessible que par les utilisateurs connectés.<br>
+- Le code utilise PHP et MySQL pour gérer l'inscription et la connexion des utilisateurs, avec des mesures de sécurité telles que les mots de passe hachés et le "salt" de mot de passe mis en œuvre pour protéger contre les attaques liées au mot de passe. <br>
+- Le fichier registerScript.php gère le processus d'inscription d'utilisateur, y compris la validation des entrées et la vérification des noms d'utilisateur existants.<br>
+- Le fichier loginScript.php gère le processus de connexion d'utilisateur, y compris les comparaisons de hachage pour une vérification sécurisée du mot de passe.<br>
+- Le fichier home.php est la page principale qui ne peut être accessible que par les utilisateurs connectés.<br>
 
 # Sécurité
 - utilisation de "mysqli_real_escape_string" afin d'empêcher les attaques par injection SQL.<br>
