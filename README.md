@@ -1,6 +1,6 @@
 # Projet Sécurité des systèmes d'informations
 
-Il s'agit d'un formulaire d'inscription et de connexion sécurisé en PHP avec des mots de passe hachés . Il comprend les fonctionnalités suivantes :
+Il s'agit d'un formulaire d'inscription et de connexion sécurisé en PHP avec des mots de passe hachés . Il comprend les fonctionnalités suivantes:
 
 - Inscription d'utilisateur avec la validation des champs d'entrée et la vérification si le nom d'utilisateur existe déjà.
 - Connexion avec des mots de passe hachés.
