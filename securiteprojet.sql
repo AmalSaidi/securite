@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : mar. 14 fév. 2023 à 23:01
+-- Généré le : mar. 14 fév. 2023 à 23:11
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.1.12
 
@@ -39,12 +39,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password_hash`, `salt`) VALUES
-(1, 'ghgh', '$2y$12$CjfjKE5hw7SyXKeGh3/JouhSlN8QuM0j45XJZ8zylpvcvA3cOPFiC', '6b1f354ea8507ff37d4ddfd60b7a5aca'),
 (2, 'amal', '$2y$12$iB3uPgfYjeTGmVSUgQlpV.I7uFXnubU0wUCVev6fAeMiBqNBK65x6', '2c4040869096588ef7d863e679c2d28b'),
-(3, 'lulu', '$2y$12$YPZOrbyrIsZEyoOJY5KSHe2l0cZqxrFlsXaXUWogSTnsiFhpgiSJC', 'c07774ccf066da7169867329b09845e1'),
-(5, 'fgff', '$2y$10$wIsswyyc00uUv80H.ade.eLsq8qgGKhlGzpG/ZLdx5re86Vho8F6a', '169066561763ead309b2fa30.28998557'),
-(6, 'test', '$2y$10$wuFmgoIejkk8rC..I2PDY.J/Njp9MWCgrIuwRdXH4/xqoHLk69TDK', '83340988663ead6c7ea1c47.20612008'),
-(7, 'lili', '$2y$10$Weri23RQQM0/vuvQG8pj2.C9ZOGU2mIuZix6YnoUycHEB2BfhQGMi', '61718504363ebf243cf7d39.15548648');
+(6, 'test', '$2y$10$wuFmgoIejkk8rC..I2PDY.J/Njp9MWCgrIuwRdXH4/xqoHLk69TDK', '83340988663ead6c7ea1c47.20612008');
 
 --
 -- Index pour les tables déchargées
