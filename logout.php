@@ -6,7 +6,7 @@ session_destroy();
 
 // redirige vers la page du login
 
-header('Location: login.php');
+header('Location: index.php');
 die();
 
 ?>

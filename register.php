@@ -19,7 +19,7 @@
 					<i class="fas fa-lock"></i>
 				</label>
 				<input type="password" name="password" placeholder="Password" id="password" required>
-				<a href="login.php">Se connecter</a>
+				<a href="index.php">Se connecter</a>
 				<input type="submit" value="Register">
 			</form>
 		</div>
