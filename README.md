@@ -31,3 +31,9 @@ Il s'agit d'un formulaire d'inscription et de connexion sécurisé en PHP avec d
 - Le "salt" de mot de passe est généré de manière aléatoire à l'aide de la fonction random_bytes de PHP pour rendre chaque hachage unique.<br>
 - Les entrées utilisateur sont validées avec des fonctions PHP telles que trim et htmlspecialchars pour éviter les injections SQL.<br>
 - La session est gérée avec la fonction session_start de PHP pour restreindre l'accès aux pages aux utilisateurs connectés uniquement.<br>
+
+# Demo
+![image](https://user-images.githubusercontent.com/59490844/218879891-900f1cff-61fb-4fb8-8b01-2fe49e6edf7e.png)
+![image](https://user-images.githubusercontent.com/59490844/218879952-a707975f-316e-476b-b8b2-13f395379036.png)
+![image](https://user-images.githubusercontent.com/59490844/218879986-8bbe0471-785c-40c1-8bc9-6124326ee2fe.png)
+
