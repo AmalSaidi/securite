@@ -16,7 +16,7 @@ Il s'agit d'un formulaire d'inscription et de connexion sécurisé en PHP avec d
 1. Clonez le projet ou téléchargez le fichier zip sur votre serveur local.
 2. Créez une nouvelle base de données MySQL et importez le fichier securiteprojet.sql pour créer la table nécessaire.
 3. Modifiez les fichiers loginScript.php et registerScript.php pour inclure vos informations de connexion à la base de données MySQL.
-4. Testez le formulaire en visitant register.php pour enregistrer un nouvel utilisateur et puis login.php pour vous connecter avec le compte nouvellement créé.
+4. Testez le formulaire en visitant register.php pour enregistrer un nouvel utilisateur et puis index.php pour vous connecter avec le compte nouvellement créé.
 
 # Aperçu du code
 
